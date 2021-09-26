@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
  -->
-  ### HI THERE 👋
-<!--   ![bg (1)](https://user-images.githubusercontent.com/76240802/134808229-72d818d9-4a75-44c9-8fe4-d6fbc90f96fb.jpg) -->
+  ### Hey folks👋
+<img src="Bg1.jpg" width="1000" height="200">
 
  ![](https://komarev.com/ghpvc/?username=nancy0119&label=PROFILE+VIEWS)
 -	:computer: I pursuing B.Tech(IT) from IGDTUW, Delhi<!-- - 🔭 I’m currently working on  -->
