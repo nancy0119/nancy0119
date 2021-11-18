@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on Web Development Projects<!-- - 🤔 I’m looking for help with ... --><!-- - 💬 Ask me about ... -->
 - 📫 Find me around the web : 
-<a  href="https://www.linkedin.com/in/nancy-815b2a201/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a  href="https://www.linkedin.com/in/nancy-/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a  href="mailto:nancy71187@gmail.com" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
